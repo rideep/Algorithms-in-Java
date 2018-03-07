@@ -1,1 +1,1 @@
-# Learning-github
+# Implementations of data structures in Java
